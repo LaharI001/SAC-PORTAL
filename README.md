@@ -1,4 +1,4 @@
-# SAC-PORTAL
+SAC-Portal
 SAC Portal for IIT Mandi
 
 This is a project to build a portal for the Student Activity Center of IIT Mandi . This portal will be used by clubs to post details about their events which will be read by students who have enrolled for that particular club. This website is being built with flask web application framework .
