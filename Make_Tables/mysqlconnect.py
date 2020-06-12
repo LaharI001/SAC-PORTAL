@@ -28,10 +28,10 @@ def create_insert_statement(data):   #pass the data in the JSON Format
         '''   #Column names should be the keys
         data = {   
                 "tablename" : 'Users',
-                "userid" : 'B19188',
-                "email" : 'b19188@students.iitmandi.ac.in',
-                "password" : 'Priyam@0911',
-                "name" : 'Priyam Seth',
+                "userid" : 'B19197',
+                "email" : 'b19197@students.iitmandi.ac.in',
+                "password" : 'lahari@001',
+                "name" : 'lahari talla',
                 "admin" : '1'
         } 
         '''
